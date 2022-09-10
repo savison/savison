@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Savi Son
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning Python and Django
+- 💞️ I’m looking to collaborate on some projects
+- 📫 How to reach me savi.son@swissonline.ch
